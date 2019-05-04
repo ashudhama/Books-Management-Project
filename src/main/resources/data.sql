@@ -1,0 +1,14 @@
+insert into book values (1,'Danish Richi','252-27562567','DAA');
+insert into book values (2,'Hoversd Hook','272-27276226','Data Structure');
+insert into book values (3,'Brocks John','252-27662727','Let us C');
+insert into book values (4,'Lembo Tiddi','524-62452625','Introduction to Python');
+insert into comment values (1,'1','very good book', '2019-04-25 00:00:00');
+insert into comment values (2,'1','Nice book', '2019-04-25 00:00:00');
+insert into comment values (3,'1','Good book', '2019-04-25 00:00:00');
+insert into comment values (4,'2','very good book', '2019-04-25 00:00:00');
+insert into comment values (5,'2','Nice book', '2019-04-25 00:00:00');
+insert into comment values (6,'2','Helpfull book', '2019-04-25 00:00:00');
+insert into comment values (7,'3','good book', '2019-04-25 00:00:00');
+insert into comment values (8,'3','very nice book', '2019-04-25 00:00:00');
+insert into comment values (9,'3','very good book', '2019-04-25 00:00:00');
+insert into comment values (10,'4','very good book', '2019-04-25 00:00:00');
